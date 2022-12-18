@@ -1,0 +1,74 @@
+body {
+    height:100vh;
+    background-color: #f5f5f5;
+  }
+
+.position-relative{
+    max-width: 45rem; 
+    width: 100vw;
+}
+
+.drumimg{
+    max-width: 45rem;
+    width: 100vw;
+}
+
+button {
+    opacity: 0.7;
+    width: 30px;
+    height: 30px;
+
+  }
+
+.button-a{
+   
+    transform: translate(min(20vw, 10rem), max(-30vw, -12rem));
+}
+
+.button-s{
+   
+    transform: translate(min(21vw, 11rem), max(-6vw, -2rem));
+}
+
+.button-d{
+   
+    transform: translate(min(35vw, 15rem), max(-14vw, -5rem));
+}
+
+.button-f{
+   
+    transform: translate(min(37vw, 18rem), min(10vw, 5rem));
+}
+
+.button-g{
+   
+    transform: translate(max(-42vw, -20rem), max(-15vw, -5rem));
+}
+
+.button-h{
+   
+    transform: translate(max(-30vw, -15rem), max(-32vw, -13rem));
+}
+
+.button-j{
+    width: 30px;
+    height: 30px;
+    transform: translate(max(-10vw, -6rem), max(-20vw, -7rem));
+          
+}
+
+.button-k{
+    width: 30px;
+    height: 30px;
+    transform: translate(max(-30vw, -14rem), max(-6vw, -2rem));
+}
+
+.button-l{
+    width: 30px;
+    height: 30px;
+    transform: translate(max(-20vw, -9.5rem), max(-20vw, -7rem));
+}
+
+  
+ 
+  

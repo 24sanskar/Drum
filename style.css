@@ -20,6 +20,15 @@ button {
 
   }
 
+ .drum-cntrl:hover,
+.clicked {
+  opacity: 1;
+  box-shadow: 1px 3px 14px 1px #000;
+  background-color: #a8171275 ;
+  color: #fff ;
+}
+
+
 .button-a{
    
     transform: translate(min(20vw, 10rem), max(-30vw, -12rem));
